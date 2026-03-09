@@ -68,7 +68,7 @@ If you run locally, update these paths in the notebook accordingly.
 
 ### Option A: Kaggle (recommended for original notebook)
 
-1. Upload/open `morphhh (1).ipynb` in Kaggle.
+1. Upload/open `blood_cell_detection_segmentation_and_anomaly_analysis.ipynb` in Kaggle.
 2. Add the dataset expected by the notebook.
 3. Run cells in order.
 4. The notebook will:
@@ -103,7 +103,7 @@ If you run locally, update these paths in the notebook accordingly.
 
 ## Repository Structure
 
-- `morphhh (1).ipynb`: Full implementation notebook
+- `blood_cell_detection_segmentation_and_anomaly_analysis.ipynb`: Full implementation notebook
 - `README.md`: Project documentation
 
 ## Current Scope
